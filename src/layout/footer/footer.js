@@ -21,12 +21,12 @@ const Footer = () => {
           <a target='_blank' href="https://www.facebook.com/profile.php?id=100014322403921" rel="noreferrer">
             {Facebook}
           </a>
-          <a target='_blank' href="mailto: mohamed.a.hamaida@gmail.com" rel="noreferrer">
+          <a target='_blank' href="mailto: hamaida.mohamed@facila.dev" rel="noreferrer">
             {Email}
           </a>
         </div>
         <section className='text-base font-light text-center md:text-right'>
-          © 2022-Today/ Copyright Hamaida Mohamed Amine
+          © 2022-Today/ Copyright Hamaida Mohamed
         </section>
       </div>
     </div>

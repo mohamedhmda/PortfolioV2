@@ -2,8 +2,6 @@ import React from 'react'
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
-const itemIds = [0, 1, 2, 3, 4];
-
 const variants = {
     initial: {
       clipPath: 'polygon(0 0, 0 0, 0 100%, 0% 100%)', 
