@@ -14,6 +14,10 @@ const Services = () => {
 
             <Service logo={database} title="Data driven developement" description="Manage your data and make it easy to read" />
         </div>
+        <div>
+          {/* <div className="contra-hire-me-button" data-analyticsuserid="3df9bb89-07d3-47b9-bdd1-e72284affba9" data-theme="light" data-username="mohamed_hamaida_c175yhzf">
+          </div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script> */}
+        </div>
     </div>
   )
 }

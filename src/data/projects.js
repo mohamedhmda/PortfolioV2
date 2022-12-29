@@ -1,5 +1,12 @@
 export const projects = [
     {
+        title: "SARL PEB",
+        description: "SARL PEB is web portal for a local company working in the field fo construction. The aim of it is to make clients discover the company and contact it.",
+        stack: "React, Tailwind, Figma",
+        link: "https://sarlpeb.com",
+        type: 1
+    },
+    {
         title: "Snapshot",
         description: "Snapshot is a social networking website that connects photographers with their potential clients. Its goal is to provide you with the best stock and high-quality photos available for free on the Internet. Snapshot connects a group of talented photographers who want you to use their work.",
         stack: "React, Tailwind, Django, Figma",
